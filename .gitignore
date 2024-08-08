@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿# This .gitignore file should be placed at the root of your Unity project directory
+=======
+# This .gitignore file should be placed at the root of your Unity project directory
+>>>>>>> 8c2a311185b1607ef6af1b3ada09da96e2347574
 =======
 # This .gitignore file should be placed at the root of your Unity project directory
 >>>>>>> 8c2a311185b1607ef6af1b3ada09da96e2347574
@@ -74,7 +78,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+=======
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+>>>>>>> 8c2a311185b1607ef6af1b3ada09da96e2347574
 =======
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 >>>>>>> 8c2a311185b1607ef6af1b3ada09da96e2347574
